@@ -49,10 +49,7 @@ ComputerHardwareManagementSystem/
 
 📌 How to Compile & Run  
 
-Using g++  
-1. Clone the repository
-  bash```  
+```bash
+# Clone the repository
 git clone https://github.com/Fshabbir-X/Project-PF-Cpp-ComputerHardwareManagementSystem.git
-cd Project-PF-Cpp-ComputerHardwareManagementSystem  
-```
-
+cd Project-PF-Cpp-ComputerHardwareManagementSystem
