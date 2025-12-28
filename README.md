@@ -51,7 +51,8 @@ ComputerHardwareManagementSystem/
 
 Using g++  
 1. Clone the repository
-  bash``` git clone https://github.com/Fshabbir-X/Project-PF-Cpp-ComputerHardwareManagementSystem.git
-cd Project-PF-Cpp-ComputerHardwareManagementSystem
+  bash```  
+git clone https://github.com/Fshabbir-X/Project-PF-Cpp-ComputerHardwareManagementSystem.git
+cd Project-PF-Cpp-ComputerHardwareManagementSystem  
 ```
 
