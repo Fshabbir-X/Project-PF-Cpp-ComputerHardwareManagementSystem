@@ -48,16 +48,19 @@ ComputerHardwareManagementSystem/
 🛠️ Simple, user‑friendly text menu  
 
 📌 How to Compile & Run  
-# 1.Clone the repository  
+## 1.Clone the repository  
 ```bash
 git clone https://github.com/Fshabbir-X/Project-PF-Cpp-ComputerHardwareManagementSystem.git
 cd Project-PF-Cpp-ComputerHardwareManagementSystem
 ```
-# 2.Clone the repository    
+## 2.Clone the repository    
 ```bash
 g++ src/*.cpp -o hardware_manager  
 ```
-# 3.Run the program  
+## 3.Run the program  
 ```bash
 ./hardware_manager  
 ```
+
+### ⭐ Support  
+If you like this project, consider giving it a star ⭐ — it really helps!
