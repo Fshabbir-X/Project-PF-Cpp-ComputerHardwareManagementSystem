@@ -1,7 +1,6 @@
 # 🖥️ Computer Hardware Management System (C++)
 👋 About This Project  
-Computer Hardware Management System is a console‑based C++ application built as a Programming Fundamentals semester project.  
-It demonstrates core programming skills such as modular design, structured code, file handling, and user interaction developed during foundational coursework.  
+Computer Hardware Management System is a console‑based C++ application built as a Programming Fundamentals semester project.It demonstrates core programming skills such as modular design, structured code, file handling, and user interaction developed during foundational coursework.  
 
 This system helps users manage a database of computer hardware components — letting them add, view, search, update, and delete records — all using a modular approach in C++.
 
@@ -15,26 +14,26 @@ This system helps users manage a database of computer hardware components — le
 
 ---
 ### 🛠️ Technologies Used  
-C++ – Core programming language (functions, OOP basics)  
-File I/O – Persistent storage of hardware records  
-Modular Programming – Separate functions for each feature  
-Standard Template Library (STL) – Used where applicable  
+1.C++ – Core programming language (functions, OOP basics)  
+2.File I/O – Persistent storage of hardware records  
+3.Modular Programming – Separate functions for each feature  
+4.Standard Template Library (STL) – Used where applicable  
 
 ---
 ### 📂 Project Structure  
-ComputerHardwareManagementSystem/  
-│  
-├── src/  
-│   ├── main.cpp                  # Program entry point + menu  
-│   ├── hardware.cpp              # Functions to manage hardware  
-│   └── hardware.h                # Header file for hardware module  
+ComputerHardwareManagementSystem/
 │
-├── data/  
-│   └── hardware_data.txt         # Persistent data storage  
+├── src/
+│   ├── main.cpp                  # Program entry point + menu
+│   ├── hardware.cpp              # Functions to manage hardware
+│   └── hardware.h                # Header file for hardware module
 │
-├── build/                       # (Optional) compiled binaries  
+├── data/
+│   └── hardware_data.txt         # Persistent data storage
 │
-├── README.md                    # Project documentation  
+├── build/                       # (Optional) compiled binaries
+│
+├── README.md                    # Project documentation
 └── Makefile                     # Build instructions (if included)  
 
 ---
@@ -53,7 +52,7 @@ ComputerHardwareManagementSystem/
 git clone https://github.com/Fshabbir-X/Project-PF-Cpp-ComputerHardwareManagementSystem.git
 cd Project-PF-Cpp-ComputerHardwareManagementSystem
 ```
-## 2.Clone the repository    
+## 2.Compile the code  
 ```bash
 g++ src/*.cpp -o hardware_manager  
 ```
