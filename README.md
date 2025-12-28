@@ -1,8 +1,7 @@
 # 🖥️ Computer Hardware Management System (C++)
-# 👋 About This Project
-
-# Computer Hardware Management System is a console‑based C++ application built as a Programming Fundamentals semester project.
-It demonstrates core programming skills such as modular design, structured code, file handling, and user interaction developed during foundational coursework.
+👋 About This Project  
+Computer Hardware Management System is a console‑based C++ application built as a Programming Fundamentals semester project.  
+It demonstrates core programming skills such as modular design, structured code, file handling, and user interaction developed during foundational coursework.  
 
 This system helps users manage a database of computer hardware components — letting them add, view, search, update, and delete records — all using a modular approach in C++.
 
@@ -47,6 +46,7 @@ ComputerHardwareManagementSystem/
 📄 List all hardware items  
 🛠️ Simple, user‑friendly text menu  
 
+---
 ### 📌 How to Compile & Run  
 ## 1.Clone the repository  
 ```bash
@@ -62,5 +62,6 @@ g++ src/*.cpp -o hardware_manager
 ./hardware_manager  
 ```
 
+---
 ### ⭐ Support  
 If you like this project, consider giving it a star ⭐ — it really helps!
